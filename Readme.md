@@ -7,3 +7,4 @@
 4. James, G., Witten, D., Hastie, T. and Tibshirani, R., 2013. An introduction to statistical learning (Vol. 112). New York: springer. [https://www-bcf.usc.edu/~gareth/ISL/ISLR%20Sixth%20Printing.pdf]
 5. Karlijn Willems, Keras Tutorial: Deep Learning in Python, [Datacamp](https://www.datacamp.com/community/tutorials/deep-learning-python?utm_source=adwords_ppc)
 6. Intro to TensorFlow, Coursera [https://www.coursera.org/learn/intro-tensorflow/]
+7. PyTorch Tutorials [https://pytorch.org/tutorials/]
