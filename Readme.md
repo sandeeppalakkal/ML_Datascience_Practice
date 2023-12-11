@@ -8,4 +8,5 @@
 5. Karlijn Willems, Keras Tutorial: Deep Learning in Python, [Datacamp](https://www.datacamp.com/community/tutorials/deep-learning-python?utm_source=adwords_ppc)
 6. Intro to TensorFlow, Coursera [https://www.coursera.org/learn/intro-tensorflow/]
 7. PyTorch Tutorials [https://pytorch.org/tutorials/]
+8. Tutorial 6: Transformers and Multi-Head Attention [https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/tutorial6/Transformers_and_MHAttention.html]
 
